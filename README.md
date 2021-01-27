@@ -14,6 +14,3 @@ import SimpleWebview from 'react-native-simple-webview';
     scalesPageToFit={Platform.OS !== 'ios'}
 />
 ```
-
-
-## showcase
